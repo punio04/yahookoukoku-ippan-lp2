@@ -19545,3 +19545,7 @@ li.md\:w-auto.flex.items-center {
     transform: translateX(10px) translateY(-2px) rotate(20deg);
   }
 }
+
+div#kenga_footer {
+  display: none;
+}
